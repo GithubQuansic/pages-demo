@@ -1,3 +1,5 @@
 # Quansic
 
-Hello world!
+Hello, World!
+
+ - [Scala docs](scala/index.md)

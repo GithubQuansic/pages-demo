@@ -1,0 +1,4 @@
+# Scala
+
+Hello, Scala developers!
+
